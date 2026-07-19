@@ -1,5 +1,5 @@
-# ADAM Group Project: Impact of Enhanced Seasonal Malaria Chemoprevention on
-# Haemoglobin Trajectories (Group 3: Kutlo, Yosamu, Jean Claude, Joshua, Grace)
+# ADAM Project Title: Impact of Enhanced Seasonal Malaria Chemoprevention on
+# Haemoglobin Trajectories .
 
 # Clean environment
 rm(list = ls())
